@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  我的个人主页
+</head>
+<body bgcolor="#F5F5F5" text="#FF9100" >
 
-You can use the [editor on GitHub](https://github.com/lizhichao88/lizhichao88.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<hr width="800px" size="4px" align="left" color="#EF904C">
 
-### Markdown
+<table border="1px" bgcolor="#eee" cellpadding="10px" cellspacing="10px" bordercolor="#EF904C" >
+<caption ><font size="15px" face="隶书" color="#EF904C">我的基本信息</font></caption>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<tr>
+  <td>姓名：李志超</td>
+  <td>特长：唱，跳，rap，篮球</td>
+  <td rowspan="3"><img src="bg.jpg" ></td>
+  
+</tr>
+<tr>
+  <td>年龄：22</td>
+  <td>籍贯：浙江省金华市</td>
 
-```markdown
-Syntax highlighted code block
+</tr>
 
-# Header 1
-## Header 2
-### Header 3
+<tr>
+  <td>星座：天平</td>
+  <td>在读学校：浙江万里学院</td>
+  
+</tr>
+</table>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h3><font size="15px" face="隶书" color="#EF904C">我喜欢的电影： </font></h3>
+<ol  start="2" type="a">
+<li><a href="https://baike.baidu.com/item/%E9%87%8D%E8%BF%9420%E5%B2%81/13028826" target="_blank"><img src="1.jpg" width="490px" height="200px"></a></li>
+<li><a href="https://baike.baidu.com/item/%E6%88%91%E6%98%AF%E8%AF%81%E4%BA%BA/16785929" target="_blank"><img src="2.jpg" width="490px" height="200px" ></a></li>
+<li><a href="https://baike.baidu.com/item/%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0/6729311" target="_blank"><img src="3.jpg" width="490px" height="200px" ></a></li>
+<li><a href="https://baike.baidu.com/item/%E6%8B%A9%E5%A4%A9%E8%AE%B0/19465979" target="_blank"><img src="4.jpg"  width="490px" height="200px"></a></li>
+</ol>
 
-### Jekyll Themes
+<h3><font size="15px" face="隶书" color="#EF904C">家庭成员 </font></h3>
+<table>
+<tr>
+    <th>爸爸李汝亮</th>
+    <th>妈妈高燕</th>
+    <th>妹妹李江妙</th>
+  </tr>
+  <tr>
+    <td><a href=https://baike.baidu.com/item/%E5%85%B3%E6%99%93%E5%BD%A4/40229" target="_blank"><img src="6.jpg"  width="200px" height="280px"></a></td>
+    <td><a href="https://baike.baidu.com/item/%E9%99%88%E6%9F%8F%E9%9C%96/618754" target="_blank"><img src="7.jpg" width="200px" height="280px"></a></td>
+    <td><a href="https://baike.baidu.com/item/%E5%90%B4%E5%90%9B%E5%A6%82/801267" target="_blank"><img src="5.jpg" width="200px" height="280px"></a></td>
+  </tr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lizhichao88/lizhichao88.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</table>
+<br>
+<br>
+<embed src="http://player.video.qiyi.com/fca6f218c9818f5bf7bedfaf62e39196/0/0/v_19rr7wrp1s.swf-albumId=720872700-tvId=720872700-isPurchase=0-cnId=6" allowFullScreen="true" quality="high" width="480" height="350" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<hr width="800px" size="10px" align="left" color="#EF904C">
+
+<br>
+
+
+<a href="#top">返回顶部</a>
+
+<br>
+
+</body>
+</html>
+
+
