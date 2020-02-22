@@ -59,7 +59,7 @@
 </table>
 <br>
 <br>
-<embed src="http://player.video.qiyi.com/fca6f218c9818f5bf7bedfaf62e39196/0/0/v_19rr7wrp1s.swf-albumId=720872700-tvId=720872700-isPurchase=0-cnId=6" allowFullScreen="true" quality="high" width="480" height="350" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<embed src="http://player.video.qiyi.com/fca6f218c9818f5bf7bedfaf62e39196/0/0/v_19rr7wrp1s.swf-albumId=720872700-tvId=720872700-isPurchase=0-cnId=6" allowFullScreen="true" quality="high" width="480" height="350" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
 
 
 <hr width="800px" size="10px" align="left" color="#EF904C">
